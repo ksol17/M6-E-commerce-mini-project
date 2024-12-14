@@ -15,8 +15,6 @@ Secure Authentication: Customer account creation with hashed passwords for secur
 RESTful API: All features accessible via well-defined API endpoints.
 
 
-Here's a template for a clean and interactive README.md file for your e-commerce application:
-
 E-Commerce Application
 An interactive and efficient e-commerce platform built with Flask and SQLAlchemy for managing customers, products, and orders.
 
